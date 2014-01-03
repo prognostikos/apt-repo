@@ -1,0 +1,5 @@
+/*.deb
+/repo/*
+!/repo/conf
+/.vagrant
+Berksfile.lock
